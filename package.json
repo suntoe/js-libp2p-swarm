@@ -59,7 +59,7 @@
     "async": "^2.1.4",
     "browserify-zlib-next": "^1.0.1",
     "debug": "^2.6.0",
-    "interface-connection": "~0.3.1",
+    "interface-connection": "0.3.0",
     "ip-address": "^5.8.6",
     "libp2p-identify": "~0.3.2",
     "lodash.includes": "^4.3.0",
